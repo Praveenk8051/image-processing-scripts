@@ -1,0 +1,8 @@
+/Users/praveen/CLionProjects/ImageProcessing/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/praveen/CLionProjects/ImageProcessing/cmake-build-debug/CMakeFiles/processFiles.dir
+/Users/praveen/CLionProjects/ImageProcessing/cmake-build-debug/CMakeFiles/imageProcessing.dir
+/Users/praveen/CLionProjects/ImageProcessing/cmake-build-debug/CMakeFiles/drawRect.dir
+/Users/praveen/CLionProjects/ImageProcessing/cmake-build-debug/CMakeFiles/rotate90.dir
+/Users/praveen/CLionProjects/ImageProcessing/cmake-build-debug/CMakeFiles/detectAngle.dir
+/Users/praveen/CLionProjects/ImageProcessing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/praveen/CLionProjects/ImageProcessing/cmake-build-debug/CMakeFiles/main_source.dir
