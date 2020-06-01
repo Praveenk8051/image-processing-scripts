@@ -1,6 +1,7 @@
 ### image-processing-scripts
 
-`image_processing_c++`
+### image_processing_c++
+
 ###### Image processing based c++ scripts to detect the contours of object on white sheet by processing the image. Also helps in rotating the product to 90 deg irrespective of its angle.
 
 * ```imageProcessing.cpp```: processes the image to grayscale and thresholds the pixel values. The code for the same can be found [here](https://github.com/Praveenk8051/image-processing-scripts/blob/master/Image_processing_c%2B%2B/imageProcessing.cpp)
@@ -15,7 +16,9 @@
 
 * ```main_source.cpp```: call processFiles.cpp. The code for the same can be found [here](https://github.com/Praveenk8051/image-processing-scripts/blob/master/Image_processing_c%2B%2B/main_source.cpp)
 
-`image_processing`
+
+### image_processing
+
 ###### Image processing based python scripts.
 
 * ```contour_detection.py```: Convert to grayscale, threshold values and detect contours. The code for the same can be found [here](https://github.com/Praveenk8051/image-processing-scripts/blob/master/image_processing/contour_detection.py)
